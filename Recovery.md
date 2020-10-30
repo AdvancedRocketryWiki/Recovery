@@ -13,6 +13,8 @@ There are two main Recovery types that are generally used in Rocketry:
 
 Each has its strengths and weakness as we will explore below
 
+
+
 ### Parachutes
 
 Parachutes are the most common and sterotypical method of recovery for rockets.
@@ -49,8 +51,21 @@ Wadding's objective is to dampen the flame and heat by sacrificing themselves, b
 the wadding required so that your rocket does not burn its chute, nor not eject it.
 
 For larger rockets their are multiple options for reusable cloths than can protect the chute from the flame, a common method used in High Power & Mid-Power Rocketry.
-Another option are baffles, which are a clever trick of swirling a dampening the ejection charge.
+Another option are baffles, which are a clever trick of swirling the gases to dampen the ejection charge.
 
 ### Shock Cord Protection
 
-Simular to chutes, shock cords can be burned as well - they are generally the cloth mentionded earlier, just made to make a sleeve for the cord.
+Simular to chutes, shock cords can be burned as well - they are generally the cloth mentionded earlier, just made to make a sleeve for the cord. Only really needed for large rockets with big boi charges.
+
+## Mechnical Ejection
+
+uh put some of your dark mechnical magic here ig
+
+
+## Pistons
+
+im not rly a expert on pistons, so somebody else should prob doit
+
+
+
+
